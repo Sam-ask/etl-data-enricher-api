@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de Excel de prueba (opcional, para no subir datos reales)
+*.xlsx
+*.csv
